@@ -1,7 +1,10 @@
 
-public enum RpgClass
+namespace dotnet_rpg.Models
 {
-    Warrior = 1,
-    Wizard = 2,
-    Priest = 3
+    public enum RpgClass
+    {
+        Warrior = 1,
+        Wizard = 2,
+        Priest = 3
+    }
 }
