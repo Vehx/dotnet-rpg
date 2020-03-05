@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using dotnet_rpg.Services;
 using AutoMapper;
-using dotnet_rpg.data;
+using dotnet_rpg.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace dotnet_rpg

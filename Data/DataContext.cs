@@ -1,7 +1,7 @@
 using dotnet_rpg.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace dotnet_rpg.data
+namespace dotnet_rpg.Data
 {
     public class DataContext : DbContext
     {
